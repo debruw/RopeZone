@@ -1,15 +1,15 @@
-# Trivia Color
-Made with Unity 2019.4.11f1
+# Rope Zone
+Made with Unity 2021.3.8f1
 
 # Used Technologies
 * DoTween
-* Addressables
 * Cinemachine
+* Shader graph
+* Joystick pack
+* Stylized water
 * Scriptables
 * Singleton pattern
-* Stylized water
-* UI toolkit
 * Taptics
   
 # Gameplay Video
-[![Trivia Color](https://img.youtube.com/vi/ToPGemjF0HY/0.jpg)](https://www.youtube.com/watch?v=ToPGemjF0HY)
+[![Rope Zone](https://img.youtube.com/vi/ieEb8IL8deI/0.jpg)](https://www.youtube.com/watch?v=ieEb8IL8deI)
